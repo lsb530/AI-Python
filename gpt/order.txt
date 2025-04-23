@@ -9,3 +9,8 @@
 9. multiple_stop.py
 10. movie.py
 11. possible_models.py
+12. temprature_ex.py
+13. top_p_ex.py
+14. penalty_ex.py
+15. n_parameter_ex.py
+16. streaming_ex.py
