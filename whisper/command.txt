@@ -1,0 +1,13 @@
+wget https://upload.wikimedia.org/wikipedia/commons/7/75/Winston_Churchill_-_Be_Ye_Men_of_Valour.ogg -O ./whisper/audio/Winston_Church.ogg
+
+# sound 2 text
+whisper Winston_Church.ogg --model base
+
+# medium 모델
+whisper Winston_Church.ogg --model medium
+
+# large 모델
+whisper Winston_Church.ogg --model large
+
+# github
+https://github.com/openai/whisper/blob/main/whisper/transcribe.py
