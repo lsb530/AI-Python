@@ -1,0 +1,75 @@
+1. 3D sculpture
+2. Comic book
+3. Sketch drawing
+4. Old photograph
+5. Modern photograph
+6. Portrait
+7. Risograph
+8. Oil painting
+9. Graffiti
+10. Watercolor
+11. Cyberpunk
+12. Synthwave
+13. Gouache
+14. Pencil drawing (detailed, hyper-detailed, very realistic)
+15. Pastel drawing
+16. Ink drawing
+17. Vector
+18. Pixel art
+19. Video game
+20. Anime
+21. Manga
+22. Cartoon
+23. Illustration
+24. Poster
+25. Typography
+26. Logo
+27. Branding
+28. Etching
+29. Woodcut
+30. Political cartoon
+31. Newspaper
+32. Coloring sheet
+33. Field journal line art
+34. Street art
+35. Airbrush
+36. Crayon
+37. Child's drawing
+38. Acrylic on canvas
+39. Pencil drawing (colored, detailed)
+40. Ukiyo-e
+41. Chinese watercolor
+42. Pastels
+43. Corporate Memphis design
+44. Collage (photo, magazine)
+45. Watercolor & pen
+46. Screen printing
+47. Low poly
+48. Layered paper
+49. Sticker illustration
+50. Storybook
+51. Blueprint
+52. Patent drawing
+53. Architectural drawing
+54. Botanical illustration
+55. Cutaway
+56. Mythological map
+57. Voynich manuscript
+58. IKEA manual
+59. Scientific diagram
+60. Instruction manual
+61. Voroni diagram
+62. Isometric 3D
+63. Fabric pattern
+64. Tattoo
+65. Scratch art
+66. Mandala
+67. Mosaic
+68. Black velvet (Edgar Leeteg)
+69. Character reference sheet
+70. Vintage Disney
+71. Pixar
+72. 1970s grainy vintage illustration
+73. Studio Ghibli
+74. 1980s cartoon
+75. 1960s cartoon
